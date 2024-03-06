@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luiza
-- 🌱 I’m a Computer Science Undergrad working with databases
+- 🌱 I’m a Computer Science Undergrad working as a database engineer
 - 🌱 My main languages are python, javaScript and Java
  (I can also speak three different languages)
 
